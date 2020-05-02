@@ -17,7 +17,7 @@ function getCustomer(id, callback) {
       id: 1,
       name: 'Ahmet Erkoc',
       isGold: true,
-      email: 'email'
+      email: 'me@aerkoc.com'
     });
   }, 4000);
 }
